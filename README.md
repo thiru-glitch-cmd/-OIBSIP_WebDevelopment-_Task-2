@@ -21,3 +21,4 @@ To design and develop an interactive personal portfolio website that is visually
 
 ## Outcome
 A professional, production-ready single-page portfolio website that effectively presents an individual's background, skills, certifications, and project links. The website features fluid transitions and a clean, responsive layout across all display screens.
+## LiveDemo :https://thiru-glitch-cmd.github.io/-OIBSIP_WebDevelopment-_Task-2/
